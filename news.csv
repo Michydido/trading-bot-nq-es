@@ -1,0 +1,49 @@
+date,event,importance,is_non_news
+2026-03-05,Unemployment Claims,medium,1
+2026-03-06,Non Farm Payrolls,high,0
+2026-03-10,CPI,high,0
+2026-03-12,PPI,medium,0
+2026-03-12,Unemployment Claims,medium,1
+2026-03-18,FOMC,high,0
+2026-03-19,Unemployment Claims,medium,1
+2026-03-26,Unemployment Claims,medium,1
+2026-04-02,Unemployment Claims,medium,1
+2026-04-03,Non Farm Payrolls,high,0
+2026-04-09,Unemployment Claims,medium,1
+2026-04-10,CPI,high,0
+2026-04-12,PPI,medium,0
+2026-04-15,FOMC,high,0
+2026-04-16,Unemployment Claims,medium,1
+2026-04-23,Unemployment Claims,medium,1
+2026-05-01,Non Farm Payrolls,high,0
+2026-05-07,Unemployment Claims,medium,1
+2026-05-10,CPI,high,0
+2026-05-12,PPI,medium,0
+2026-05-14,Unemployment Claims,medium,1
+2026-05-20,FOMC,high,0
+2026-05-21,Unemployment Claims,medium,1
+2026-05-28,Unemployment Claims,medium,1
+2026-06-04,Unemployment Claims,medium,1
+2026-06-05,Non Farm Payrolls,high,0
+2026-06-10,CPI,high,0
+2026-06-11,Unemployment Claims,medium,1
+2026-06-12,PPI,medium,0
+2026-06-17,FOMC,high,0
+2026-06-18,Unemployment Claims,medium,1
+2026-06-25,Unemployment Claims,medium,1
+2026-07-02,Unemployment Claims,medium,1
+2026-07-03,Non Farm Payrolls,high,0
+2026-07-09,Unemployment Claims,medium,1
+2026-07-10,CPI,high,0
+2026-07-12,PPI,medium,0
+2026-07-15,FOMC,high,0
+2026-07-16,Unemployment Claims,medium,1
+2026-07-23,Unemployment Claims,medium,1
+2026-08-06,Unemployment Claims,medium,1
+2026-08-07,Non Farm Payrolls,high,0
+2026-08-10,CPI,high,0
+2026-08-12,PPI,medium,0
+2026-08-13,Unemployment Claims,medium,1
+2026-08-19,FOMC,high,0
+2026-08-20,Unemployment Claims,medium,1
+2026-08-27,Unemployment Claims,medium,1

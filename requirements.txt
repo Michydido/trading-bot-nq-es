@@ -1,0 +1,9 @@
+pandas
+numpy
+python-dateutil
+requests
+beautifulsoup4
+lxml
+python-dotenv
+websocket-client
+tradelocker

@@ -1,0 +1,1017 @@
+2026-03-10 16:22:53 - TradingBot - INFO - === AVVIO BACKTEST ===
+2026-03-10 16:22:53 - TradingBot - INFO - Nuovo giorno: 2026-02-01 tipo: non_news
+2026-03-10 16:22:58 - TradingBot - INFO - Nuovo giorno: 2026-02-02 tipo: non_news
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:23:07 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:23:07 - TradingBot - INFO - Progresso: 1000/26492
+2026-03-10 16:23:17 - TradingBot - INFO - Nuovo giorno: 2026-02-03 tipo: non_news
+2026-03-10 16:23:29 - TradingBot - INFO - Progresso: 2000/26492
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25416.152
+2026-03-10 16:23:53 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25444.205
+2026-03-10 16:23:53 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602031023_1 SHORT NQ x1 @ 25416.15 stop 25444.21
+2026-03-10 16:23:53 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:23:54 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:23:54 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:23:54 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25372.43
+2026-03-10 16:23:54 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25444.205
+2026-03-10 16:23:54 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602031024_2 SHORT NQ x1 @ 25372.43 stop 25444.21
+2026-03-10 16:23:54 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:23:54 - TradingBot - INFO - ✅ Chiuso NQ_202602031023_1 P&L -705.74 (stop_loss)
+2026-03-10 16:23:54 - TradingBot - INFO - ✅ Chiuso NQ_202602031024_2 P&L -1580.18 (stop_loss)
+2026-03-10 16:24:06 - TradingBot - INFO - Progresso: 3000/26492
+2026-03-10 16:24:06 - TradingBot - INFO - Nuovo giorno: 2026-02-04 tipo: non_news
+2026-03-10 16:24:43 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:24:43 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:24:44 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:24:44 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:24:44 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:24:44 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:24:44 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:24:44 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:24:46 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:24:46 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:24:46 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:24:46 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:24:46 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:24:46 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:25:26 - TradingBot - INFO - Progresso: 4000/26492
+2026-03-10 16:25:49 - TradingBot - INFO - Nuovo giorno: 2026-02-05 tipo: non_news
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6803.051
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6804.733
+2026-03-10 16:26:16 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602051010_3 SHORT ES x11 @ 6803.05 stop 6804.73
+2026-03-10 16:26:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: 3 FVG bearish attive
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 3
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6799.539
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6804.733
+2026-03-10 16:26:16 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602051011_4 SHORT ES x3 @ 6799.54 stop 6804.73
+2026-03-10 16:26:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: 4 FVG bearish attive
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 4
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6795.236
+2026-03-10 16:26:16 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6804.733
+2026-03-10 16:26:16 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602051012_5 SHORT ES x1 @ 6795.24 stop 6804.73
+2026-03-10 16:26:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:26:17 - TradingBot - INFO - Progresso: 5000/26492
+2026-03-10 16:26:49 - TradingBot - INFO - Nuovo giorno: 2026-02-06 tipo: non_news
+2026-03-10 16:27:17 - TradingBot - INFO - Progresso: 6000/26492
+2026-03-10 16:27:41 - TradingBot - INFO - ✅ Chiuso ES_202602051010_3 P&L -21445.05 (stop_loss)
+2026-03-10 16:27:41 - TradingBot - INFO - ✅ Chiuso ES_202602051011_4 P&L -6375.45 (stop_loss)
+2026-03-10 16:27:41 - TradingBot - INFO - ✅ Chiuso ES_202602051012_5 P&L -2340.30 (stop_loss)
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: 4 FVG bearish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 4
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24687.458
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24693.566
+2026-03-10 16:27:51 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24679.425
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24693.566
+2026-03-10 16:27:51 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24685.153
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24693.566
+2026-03-10 16:27:51 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:27:51 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:27:52 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:27:52 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:27:52 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:27:52 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:27:52 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:27:52 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:28:24 - TradingBot - INFO - Nuovo giorno: 2026-02-08 tipo: non_news
+2026-03-10 16:28:49 - TradingBot - INFO - Progresso: 7000/26492
+2026-03-10 16:28:52 - TradingBot - INFO - Nuovo giorno: 2026-02-09 tipo: non_news
+2026-03-10 16:29:19 - TradingBot - INFO - === AVVIO BACKTEST ===
+2026-03-10 16:29:19 - TradingBot - INFO - Nuovo giorno: 2026-02-01 tipo: non_news
+2026-03-10 16:29:25 - TradingBot - INFO - Nuovo giorno: 2026-02-02 tipo: non_news
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:29:34 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:29:34 - TradingBot - INFO - Progresso: 1000/26492
+2026-03-10 16:29:51 - TradingBot - INFO - Nuovo giorno: 2026-02-03 tipo: non_news
+2026-03-10 16:29:56 - TradingBot - INFO - Progresso: 2000/26492
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25416.152
+2026-03-10 16:30:00 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25444.205
+2026-03-10 16:30:00 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602031023_1 SHORT NQ x1 @ 25416.15 stop 25444.21
+2026-03-10 16:30:00 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:30:01 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:30:01 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:30:01 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25372.43
+2026-03-10 16:30:01 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25444.205
+2026-03-10 16:30:01 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602031024_2 SHORT NQ x1 @ 25372.43 stop 25444.21
+2026-03-10 16:30:01 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:30:01 - TradingBot - INFO - ✅ Chiuso NQ_202602031023_1 P&L -705.74 (stop_loss)
+2026-03-10 16:30:01 - TradingBot - INFO - ✅ Chiuso NQ_202602031024_2 P&L -1580.18 (stop_loss)
+2026-03-10 16:30:10 - TradingBot - INFO - Progresso: 3000/26492
+2026-03-10 16:30:11 - TradingBot - INFO - Nuovo giorno: 2026-02-04 tipo: non_news
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:30:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:30:25 - TradingBot - INFO - Progresso: 4000/26492
+2026-03-10 16:30:30 - TradingBot - INFO - Nuovo giorno: 2026-02-05 tipo: non_news
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6803.051
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6804.733
+2026-03-10 16:31:12 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602051010_3 SHORT ES x11 @ 6803.05 stop 6804.73
+2026-03-10 16:31:12 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: 3 FVG bearish attive
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 3
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6799.539
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6804.733
+2026-03-10 16:31:12 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602051011_4 SHORT ES x3 @ 6799.54 stop 6804.73
+2026-03-10 16:31:12 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: 4 FVG bearish attive
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 4
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6795.236
+2026-03-10 16:31:12 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6804.733
+2026-03-10 16:31:12 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602051012_5 SHORT ES x1 @ 6795.24 stop 6804.73
+2026-03-10 16:31:12 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:31:13 - TradingBot - INFO - Progresso: 5000/26492
+2026-03-10 16:31:23 - TradingBot - INFO - Nuovo giorno: 2026-02-06 tipo: non_news
+2026-03-10 16:31:27 - TradingBot - INFO - Progresso: 6000/26492
+2026-03-10 16:31:30 - TradingBot - INFO - ✅ Chiuso ES_202602051010_3 P&L -21445.05 (stop_loss)
+2026-03-10 16:31:30 - TradingBot - INFO - ✅ Chiuso ES_202602051011_4 P&L -6375.45 (stop_loss)
+2026-03-10 16:31:30 - TradingBot - INFO - ✅ Chiuso ES_202602051012_5 P&L -2340.30 (stop_loss)
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 4 FVG bearish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 4
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24687.458
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24693.566
+2026-03-10 16:31:32 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24679.425
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24693.566
+2026-03-10 16:31:32 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24685.153
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24693.566
+2026-03-10 16:31:32 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:31:32 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:31:38 - TradingBot - INFO - Nuovo giorno: 2026-02-08 tipo: non_news
+2026-03-10 16:32:13 - TradingBot - INFO - Progresso: 7000/26492
+2026-03-10 16:32:18 - TradingBot - INFO - Nuovo giorno: 2026-02-09 tipo: non_news
+2026-03-10 16:33:15 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:33:15 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:33:15 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:33:15 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:33:15 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:33:15 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:33:16 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:33:16 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:33:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25121.62
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25133.182
+2026-03-10 16:33:19 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602091024_6 SHORT NQ x2 @ 25121.62 stop 25133.18
+2026-03-10 16:33:19 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25109.703
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25133.182
+2026-03-10 16:33:19 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602091025_7 SHORT NQ x1 @ 25109.70 stop 25133.18
+2026-03-10 16:33:19 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: 4 FVG bearish attive
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Confluences totali = 4
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25101.271
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25133.182
+2026-03-10 16:33:19 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602091026_8 SHORT NQ x1 @ 25101.27 stop 25133.18
+2026-03-10 16:33:19 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6940.633
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6942.651
+2026-03-10 16:33:19 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602091026_9 SHORT ES x3 @ 6940.63 stop 6942.65
+2026-03-10 16:33:19 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: 3 FVG bearish attive
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: Confluences totali = 3
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6939.836
+2026-03-10 16:33:19 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6942.651
+2026-03-10 16:33:19 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602091027_10 SHORT ES x2 @ 6939.84 stop 6942.65
+2026-03-10 16:33:19 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:34:00 - TradingBot - INFO - Progresso: 8000/26492
+2026-03-10 16:34:44 - TradingBot - INFO - Nuovo giorno: 2026-02-10 tipo: non_news
+2026-03-10 16:35:18 - TradingBot - INFO - ✅ Chiuso NQ_202602091024_6 P&L -4213.08 (stop_loss)
+2026-03-10 16:35:18 - TradingBot - INFO - ✅ Chiuso NQ_202602091025_7 P&L -2344.88 (stop_loss)
+2026-03-10 16:35:18 - TradingBot - INFO - ✅ Chiuso NQ_202602091026_8 P&L -2513.52 (stop_loss)
+2026-03-10 16:35:18 - TradingBot - INFO - ✅ Chiuso ES_202602091026_9 P&L -2130.00 (stop_loss)
+2026-03-10 16:35:18 - TradingBot - INFO - ✅ Chiuso ES_202602091027_10 P&L -1499.70 (stop_loss)
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25305.37
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25340.805
+2026-03-10 16:35:20 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6974.645
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6981.145
+2026-03-10 16:35:20 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25282.279
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25340.805
+2026-03-10 16:35:20 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25291.599
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25311.947
+2026-03-10 16:35:20 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25298.0
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25311.947
+2026-03-10 16:35:20 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25321.186
+2026-03-10 16:35:20 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25311.947
+2026-03-10 16:35:20 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:35:20 - TradingBot - INFO - Progresso: 9000/26492
+2026-03-10 16:35:31 - TradingBot - INFO - Nuovo giorno: 2026-02-11 tipo: non_news
+2026-03-10 16:35:49 - TradingBot - INFO - Progresso: 10000/26492
+2026-03-10 16:36:38 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:36:38 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:37:26 - TradingBot - INFO - Progresso: 11000/26492
+2026-03-10 16:37:29 - TradingBot - INFO - Nuovo giorno: 2026-02-12 tipo: non_news
+2026-03-10 16:38:15 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:15 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:38:15 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:38:15 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:38:15 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:38:15 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25097.329
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25118.681
+2026-03-10 16:38:16 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602121008_11 SHORT NQ x1 @ 25097.33 stop 25118.68
+2026-03-10 16:38:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: 3 FVG bearish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 3
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6942.236
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6946.248
+2026-03-10 16:38:16 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602121008_12 SHORT ES x2 @ 6942.24 stop 6946.25
+2026-03-10 16:38:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25114.17
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25118.681
+2026-03-10 16:38:16 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602121009_13 SHORT NQ x3 @ 25114.17 stop 25118.68
+2026-03-10 16:38:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: 4 FVG bearish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 4
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6944.242
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6946.248
+2026-03-10 16:38:16 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602121009_14 SHORT ES x2 @ 6944.24 stop 6946.25
+2026-03-10 16:38:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25130.92
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25118.681
+2026-03-10 16:38:16 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602121010_15 SHORT NQ x1 @ 25130.92 stop 25118.68
+2026-03-10 16:38:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: 4 FVG bearish attive
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Confluences totali = 4
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6947.239
+2026-03-10 16:38:16 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6946.248
+2026-03-10 16:38:16 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602121010_16 SHORT ES x5 @ 6947.24 stop 6946.25
+2026-03-10 16:38:16 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:38:16 - TradingBot - INFO - ✅ Chiuso NQ_202602121008_11 P&L -671.82 (stop_loss)
+2026-03-10 16:38:16 - TradingBot - INFO - ✅ Chiuso ES_202602121008_12 P&L -500.30 (stop_loss)
+2026-03-10 16:38:16 - TradingBot - INFO - ✅ Chiuso NQ_202602121009_13 P&L -1005.00 (stop_loss)
+2026-03-10 16:38:16 - TradingBot - INFO - ✅ Chiuso ES_202602121009_14 P&L -299.70 (stop_loss)
+2026-03-10 16:38:16 - TradingBot - INFO - ✅ Chiuso NQ_202602121010_15 P&L 0.00 (stop_loss)
+2026-03-10 16:38:16 - TradingBot - INFO - ✅ Chiuso ES_202602121010_16 P&L 0.00 (stop_loss)
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:17 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:38:18 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:38:39 - TradingBot - INFO - Progresso: 12000/26492
+2026-03-10 16:38:44 - TradingBot - INFO - Nuovo giorno: 2026-02-13 tipo: non_news
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: 2 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 24679.522
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24641.783
+2026-03-10 16:39:11 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602131001_17 LONG NQ x1 @ 24679.52 stop 24641.78
+2026-03-10 16:39:11 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6828.045
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6822.145
+2026-03-10 16:39:11 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602131001_18 LONG ES x1 @ 6828.05 stop 6822.15
+2026-03-10 16:39:11 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: 2 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 24692.903
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24641.783
+2026-03-10 16:39:11 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602131002_19 LONG NQ x1 @ 24692.90 stop 24641.78
+2026-03-10 16:39:11 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6831.851
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6822.145
+2026-03-10 16:39:11 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602131002_20 LONG ES x1 @ 6831.85 stop 6822.15
+2026-03-10 16:39:11 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - ✅ Chiuso NQ_202602131001_17 P&L -796.50 (stop_loss)
+2026-03-10 16:39:11 - TradingBot - INFO - ✅ Chiuso ES_202602131001_18 P&L -329.85 (stop_loss)
+2026-03-10 16:39:11 - TradingBot - INFO - ✅ Chiuso NQ_202602131002_19 P&L -1064.12 (stop_loss)
+2026-03-10 16:39:11 - TradingBot - INFO - ✅ Chiuso ES_202602131002_20 P&L -520.15 (stop_loss)
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:39:11 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:39:12 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: 2 FVG bullish attive
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 24768.794
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24737.555
+2026-03-10 16:39:13 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: 3 FVG bullish attive
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 24792.5
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24737.555
+2026-03-10 16:39:13 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6851.448
+2026-03-10 16:39:13 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6840.454
+2026-03-10 16:39:13 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:39:13 - TradingBot - INFO - Progresso: 13000/26492
+2026-03-10 16:39:56 - TradingBot - INFO - Nuovo giorno: 2026-02-15 tipo: non_news
+2026-03-10 16:40:31 - TradingBot - INFO - Nuovo giorno: 2026-02-16 tipo: non_news
+2026-03-10 16:40:53 - TradingBot - INFO - Progresso: 14000/26492
+2026-03-10 16:41:25 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24701.186
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24714.761
+2026-03-10 16:41:26 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602161011_21 SHORT NQ x1 @ 24701.19 stop 24714.76
+2026-03-10 16:41:26 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:41:26 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:42:19 - TradingBot - INFO - Nuovo giorno: 2026-02-17 tipo: non_news
+2026-03-10 16:42:37 - TradingBot - INFO - Progresso: 15000/26492
+2026-03-10 16:43:02 - TradingBot - INFO - ✅ Chiuso NQ_202602161011_21 P&L -579.56 (stop_loss)
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6798.848
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6794.151
+2026-03-10 16:43:04 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602171004_22 LONG ES x2 @ 6798.85 stop 6794.15
+2026-03-10 16:43:04 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6800.148
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6794.151
+2026-03-10 16:43:04 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602171005_23 LONG ES x1 @ 6800.15 stop 6794.15
+2026-03-10 16:43:04 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24464.283
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24470.664
+2026-03-10 16:43:04 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602171006_24 SHORT NQ x1 @ 24464.28 stop 24470.66
+2026-03-10 16:43:04 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24454.849
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24470.664
+2026-03-10 16:43:04 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602171007_25 SHORT NQ x1 @ 24454.85 stop 24470.66
+2026-03-10 16:43:04 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:43:04 - TradingBot - INFO - ✅ Chiuso ES_202602171004_22 P&L -519.40 (stop_loss)
+2026-03-10 16:43:04 - TradingBot - INFO - ✅ Chiuso ES_202602171005_23 P&L -324.70 (stop_loss)
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24464.805
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24470.664
+2026-03-10 16:43:04 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602171008_26 SHORT NQ x2 @ 24464.81 stop 24470.66
+2026-03-10 16:43:04 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6784.842
+2026-03-10 16:43:04 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6791.148
+2026-03-10 16:43:04 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602171011_27 SHORT ES x1 @ 6784.84 stop 6791.15
+2026-03-10 16:43:04 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6790.645
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6791.148
+2026-03-10 16:43:05 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602171012_28 SHORT ES x9 @ 6790.65 stop 6791.15
+2026-03-10 16:43:05 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:43:05 - TradingBot - INFO - ✅ Chiuso NQ_202602171006_24 P&L -619.78 (stop_loss)
+2026-03-10 16:43:05 - TradingBot - INFO - ✅ Chiuso NQ_202602171007_25 P&L -808.46 (stop_loss)
+2026-03-10 16:43:05 - TradingBot - INFO - ✅ Chiuso NQ_202602171008_26 P&L -1218.68 (stop_loss)
+2026-03-10 16:43:05 - TradingBot - INFO - ✅ Chiuso ES_202602171011_27 P&L -784.85 (stop_loss)
+2026-03-10 16:43:05 - TradingBot - INFO - ✅ Chiuso ES_202602171012_28 P&L -4452.30 (stop_loss)
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:43:05 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24454.686
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24464.544
+2026-03-10 16:43:06 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24471.066
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24464.544
+2026-03-10 16:43:06 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24469.577
+2026-03-10 16:43:06 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24464.544
+2026-03-10 16:43:06 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:43:58 - TradingBot - INFO - Progresso: 16000/26492
+2026-03-10 16:44:15 - TradingBot - INFO - Nuovo giorno: 2026-02-18 tipo: non_news
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6894.745
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6894.733
+2026-03-10 16:45:22 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602181025_29 SHORT ES x672 @ 6894.74 stop 6894.73
+2026-03-10 16:45:22 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:45:22 - TradingBot - INFO - ✅ Chiuso ES_202602181025_29 P&L 0.00 (stop_loss)
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:45:22 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:45:44 - TradingBot - INFO - Progresso: 17000/26492
+2026-03-10 16:46:33 - TradingBot - INFO - Nuovo giorno: 2026-02-19 tipo: non_news
+2026-03-10 16:47:23 - TradingBot - INFO - Progresso: 18000/26492
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6863.942
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6864.036
+2026-03-10 16:47:38 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602191000_30 SHORT ES x85 @ 6863.94 stop 6864.04
+2026-03-10 16:47:38 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6868.448
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6864.036
+2026-03-10 16:47:38 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602191001_31 SHORT ES x1 @ 6868.45 stop 6864.04
+2026-03-10 16:47:38 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:47:38 - TradingBot - INFO - ✅ Chiuso ES_202602191000_30 P&L -19150.50 (stop_loss)
+2026-03-10 16:47:38 - TradingBot - INFO - ✅ Chiuso ES_202602191001_31 P&L 0.00 (stop_loss)
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:47:38 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:39 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:47:39 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:39 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:47:39 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:39 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:39 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6869.439
+2026-03-10 16:47:40 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6861.636
+2026-03-10 16:47:40 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:47:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:47:42 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:48:56 - TradingBot - INFO - Nuovo giorno: 2026-02-20 tipo: non_news
+2026-03-10 16:49:08 - TradingBot - INFO - Progresso: 19000/26492
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG NQ: 2 FVG bullish attive
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 25001.775
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24835.208
+2026-03-10 16:49:54 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602201001_32 LONG NQ x1 @ 25001.78 stop 24835.21
+2026-03-10 16:49:54 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:49:54 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:49:54 - TradingBot - INFO - ✅ Chiuso NQ_202602201001_32 P&L -3364.56 (stop_loss)
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6895.245
+2026-03-10 16:49:55 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6892.254
+2026-03-10 16:49:55 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6884.645
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6892.254
+2026-03-10 16:49:56 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6886.233
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6892.254
+2026-03-10 16:49:56 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:49:56 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 24862.878
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24902.862
+2026-03-10 16:49:57 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: 2 FVG bullish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 24967.632
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24940.086
+2026-03-10 16:49:57 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: 2 FVG bullish attive
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 24964.828
+2026-03-10 16:49:57 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24940.086
+2026-03-10 16:49:57 - TradingBot - WARNING - Risk limits impediscono nuovo trade
+2026-03-10 16:49:58 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:49:58 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:49:58 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:49:58 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:49:58 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:50:32 - TradingBot - INFO - Nuovo giorno: 2026-02-22 tipo: non_news
+2026-03-10 16:50:44 - TradingBot - INFO - Progresso: 20000/26492
+2026-03-10 16:51:02 - TradingBot - INFO - Nuovo giorno: 2026-02-23 tipo: non_news
+2026-03-10 16:52:13 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6866.545
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6876.639
+2026-03-10 16:52:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602231005_33 SHORT ES x1 @ 6866.55 stop 6876.64
+2026-03-10 16:52:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6872.245
+2026-03-10 16:52:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6876.639
+2026-03-10 16:52:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602231006_34 SHORT ES x1 @ 6872.24 stop 6876.64
+2026-03-10 16:52:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:52:15 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:52:15 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:52:15 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:52:15 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:52:17 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:17 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:17 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:18 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:52:18 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:52:18 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:52:18 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:18 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:52:18 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:52:18 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:52:43 - TradingBot - INFO - Progresso: 21000/26492
+2026-03-10 16:53:48 - TradingBot - INFO - Nuovo giorno: 2026-02-24 tipo: non_news
+2026-03-10 16:54:31 - TradingBot - INFO - Progresso: 22000/26492
+2026-03-10 16:54:44 - TradingBot - INFO - ✂️ Chiuso 50% ES_202602231005_33 P&L 607.73 (tp50)
+2026-03-10 16:54:44 - TradingBot - INFO - ✂️ Chiuso 50% ES_202602231006_34 P&L 750.23 (tp50)
+2026-03-10 16:54:44 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:54:44 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:54:44 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:54:44 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:54:45 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:54:46 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:54:46 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:54:46 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:54:46 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:54:46 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:54:46 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:54:46 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:55:55 - TradingBot - INFO - Nuovo giorno: 2026-02-25 tipo: non_news
+2026-03-10 16:56:06 - TradingBot - INFO - Progresso: 23000/26492
+2026-03-10 16:56:53 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:56:53 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:56:53 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:56:55 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:56:55 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:56:55 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:56:55 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:56:55 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:56:55 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:57:47 - TradingBot - INFO - Progresso: 24000/26492
+2026-03-10 16:58:09 - TradingBot - INFO - Nuovo giorno: 2026-02-26 tipo: non_news
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6913.039
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6919.948
+2026-03-10 16:59:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602261001_35 SHORT ES x1 @ 6913.04 stop 6919.95
+2026-03-10 16:59:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 3 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 3
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6915.142
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6919.948
+2026-03-10 16:59:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602261002_36 SHORT ES x1 @ 6915.14 stop 6919.95
+2026-03-10 16:59:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 2 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6906.633
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6914.699
+2026-03-10 16:59:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602261012_37 SHORT ES x1 @ 6906.63 stop 6914.70
+2026-03-10 16:59:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 3 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 3
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6906.136
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6914.699
+2026-03-10 16:59:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602261013_38 SHORT ES x1 @ 6906.14 stop 6914.70
+2026-03-10 16:59:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 4 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 4
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6901.133
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6914.699
+2026-03-10 16:59:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602261014_39 SHORT ES x1 @ 6901.13 stop 6914.70
+2026-03-10 16:59:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 7 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 7
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6865.639
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6866.154
+2026-03-10 16:59:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602261028_40 SHORT ES x3 @ 6865.64 stop 6866.15
+2026-03-10 16:59:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: 7 FVG bearish attive
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Confluences totali = 7
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bearish a 6872.148
+2026-03-10 16:59:14 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6866.154
+2026-03-10 16:59:14 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602261029_41 SHORT ES x1 @ 6872.15 stop 6866.15
+2026-03-10 16:59:14 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:14 - TradingBot - INFO - ✅ Chiuso ES_202602261028_40 P&L -976.35 (stop_loss)
+2026-03-10 16:59:14 - TradingBot - INFO - ✅ Chiuso ES_202602261029_41 P&L 0.00 (stop_loss)
+2026-03-10 16:59:19 - TradingBot - INFO - Progresso: 25000/26492
+2026-03-10 16:59:31 - TradingBot - INFO - Nuovo giorno: 2026-02-27 tipo: non_news
+2026-03-10 16:59:39 - TradingBot - INFO - Progresso: 26000/26492
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:59:41 - TradingBot - INFO - ✂️ Chiuso 50% ES_202602261001_35 P&L 1526.00 (tp50)
+2026-03-10 16:59:41 - TradingBot - INFO - ✂️ Chiuso 50% ES_202602261002_36 P&L 1578.58 (tp50)
+2026-03-10 16:59:41 - TradingBot - INFO - ✂️ Chiuso 50% ES_202602261012_37 P&L 1365.85 (tp50)
+2026-03-10 16:59:41 - TradingBot - INFO - ✂️ Chiuso 50% ES_202602261013_38 P&L 1353.43 (tp50)
+2026-03-10 16:59:41 - TradingBot - INFO - ✂️ Chiuso 50% ES_202602261014_39 P&L 1228.35 (tp50)
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6854.936
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6845.933
+2026-03-10 16:59:41 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602271002_42 LONG ES x1 @ 6854.94 stop 6845.93
+2026-03-10 16:59:41 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: 2 FVG bullish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 2
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Calcolo stop loss per bullish a 6853.442
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Stop basato su BOS level = 6845.933
+2026-03-10 16:59:41 - TradingBot - INFO - 🚀 NUOVO TRADE: ES_202602271003_43 LONG ES x1 @ 6853.44 stop 6845.93
+2026-03-10 16:59:41 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 16:59:41 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:42 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:42 - TradingBot - INFO - DEBUG NQ: 2 FVG bullish attive
+2026-03-10 16:59:42 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 16:59:42 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bullish a 24941.408
+2026-03-10 16:59:42 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 24933.772
+2026-03-10 16:59:42 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602271024_44 LONG NQ x1 @ 24941.41 stop 24933.77
+2026-03-10 16:59:42 - TradingBot - INFO - (ordine simulato)
+2026-03-10 16:59:42 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:42 - TradingBot - INFO - ✅ Chiuso NQ_202602271024_44 P&L -453.84 (stop_loss)
+2026-03-10 16:59:42 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 16:59:48 - TradingBot - INFO - === BACKTEST COMPLETATO ===
+2026-03-10 16:59:48 - TradingBot - INFO - P&L totale: -75178.17
+2026-03-10 16:59:48 - TradingBot - INFO - Trade eseguiti: 0
+2026-03-10 16:59:48 - TradingBot - INFO - Win rate: 0.0%
+2026-03-10 17:13:35 - TradingBot - INFO - === AVVIO BACKTEST ===
+2026-03-10 17:13:35 - TradingBot - INFO - Nuovo giorno: 2026-02-01 tipo: non_news
+2026-03-10 17:13:40 - TradingBot - INFO - Nuovo giorno: 2026-02-02 tipo: non_news
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: 1 FVG bullish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: 1 FVG bullish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: Confluences totali = 0
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: 1 FVG bearish attive
+2026-03-10 17:13:49 - TradingBot - INFO - DEBUG ES: Confluences totali = 1
+2026-03-10 17:13:49 - TradingBot - INFO - Progresso: 1000/26492
+2026-03-10 17:13:59 - TradingBot - INFO - Nuovo giorno: 2026-02-03 tipo: non_news
+2026-03-10 17:14:03 - TradingBot - INFO - Progresso: 2000/26492
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Confluences totali = 0
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: 1 FVG bearish attive
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Confluences totali = 1
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: 2 FVG bearish attive
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Confluences totali = 2
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25416.152
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25444.205
+2026-03-10 17:14:08 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602031023_1 SHORT NQ x1 @ 25416.15 stop 25444.21
+2026-03-10 17:14:08 - TradingBot - INFO - (ordine simulato)
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: 3 FVG bearish attive
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Confluences totali = 3
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Calcolo stop loss per bearish a 25372.43
+2026-03-10 17:14:08 - TradingBot - INFO - DEBUG NQ: Stop basato su BOS level = 25444.205
+2026-03-10 17:14:08 - TradingBot - INFO - 🚀 NUOVO TRADE: NQ_202602031024_2 SHORT NQ x1 @ 25372.43 stop 25444.21
+2026-03-10 17:14:08 - TradingBot - INFO - (ordine simulato)
+2026-03-10 17:14:08 - TradingBot - INFO - ✅ Chiuso NQ_202602031023_1 P&L -705.74 (stop_loss)
+2026-03-10 17:14:08 - TradingBot - INFO - ✅ Chiuso NQ_202602031024_2 P&L -1580.18 (stop_loss)
+2026-03-10 17:14:17 - TradingBot - INFO - Progresso: 3000/26492
+2026-03-10 17:14:17 - TradingBot - INFO - Nuovo giorno: 2026-02-04 tipo: non_news
