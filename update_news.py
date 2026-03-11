@@ -1,121 +1,82 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 """
-Script per generare un file news.csv con le principali news economiche USA
-basate su regole ricorrenti (CPI, FOMC, NFP, PPI, Unemployment Claims).
-Genera eventi per i prossimi N mesi (default 6).
+Script per scaricare il calendario news reale da Financial Modeling Prep (FMP).
+Eseguito automaticamente da GitHub Actions ogni giorno.
 """
 
+import os
 import csv
-from datetime import datetime, timedelta, date
-import argparse
+import requests
+from datetime import datetime, timedelta
 
-def nth_weekday(year, month, nth, weekday):
-    """
-    Restituisce la data dell'n-esimo giorno della settimana (0=lunedì, 6=domenica)
-    in un dato mese. Ad esempio, primo venerdì del mese: nth=1, weekday=4.
-    """
-    first_day = date(year, month, 1)
-    # Trova il primo giorno della settimana desiderata
-    first_weekday = first_day.weekday()
-    offset = (weekday - first_weekday) % 7
-    first_occurrence = first_day + timedelta(days=offset)
-    # Aggiungi (nth-1) settimane
-    return first_occurrence + timedelta(weeks=nth-1)
+API_KEY = os.getenv('FMP_API_KEY')
 
-def generate_events(months=6, start_date=None):
-    """
-    Genera una lista di eventi economici per i prossimi 'months' mesi.
-    Se start_date è None, parte dal mese corrente.
-    Restituisce una lista di dizionari con chiavi: date, event, importance, is_non_news.
-    """
-    if start_date is None:
-        start_date = date.today()
-    
-    events = []
-    current_year = start_date.year
-    current_month = start_date.month
-    
-    for i in range(months):
-        year = current_year
-        month = current_month + i
-        while month > 12:
-            month -= 12
-            year += 1
-        
-        # CPI: di solito intorno al 10-15 del mese (mettiamo il 10 come placeholder)
-        cpi_date = date(year, month, 10)
-        events.append({
-            'date': cpi_date.isoformat(),
-            'event': 'CPI',
-            'importance': 'high',
-            'is_non_news': 0
-        })
-        
-        # FOMC: circa ogni 6 settimane, ma per semplicità mettiamo il terzo mercoledì del mese
-        # (alcuni mesi non hanno FOMC, ma va bene)
-        fomc_date = nth_weekday(year, month, 3, 2)  # terzo mercoledì
-        events.append({
-            'date': fomc_date.isoformat(),
-            'event': 'FOMC',
-            'importance': 'high',
-            'is_non_news': 0
-        })
-        
-        # NFP: primo venerdì del mese
-        nfp_date = nth_weekday(year, month, 1, 4)  # primo venerdì
-        events.append({
-            'date': nfp_date.isoformat(),
-            'event': 'Non Farm Payrolls',
-            'importance': 'high',
-            'is_non_news': 0
-        })
-        
-        # PPI: di solito dopo CPI, mettiamo il 12
-        ppi_date = date(year, month, 12)
-        events.append({
-            'date': ppi_date.isoformat(),
-            'event': 'PPI',
-            'importance': 'medium',
-            'is_non_news': 0
-        })
-        
-        # Unemployment Claims: ogni giovedì (considerate non-news)
-        # Aggiungiamo solo alcuni giovedì a caso per avere eventi non-news
-        for week in range(1, 5):
-            uc_date = nth_weekday(year, month, week, 3)  # giovedì (weekday 3)
-            if uc_date.month == month:  # assicuriamoci che sia nello stesso mese
-                events.append({
-                    'date': uc_date.isoformat(),
-                    'event': 'Unemployment Claims',
-                    'importance': 'medium',
-                    'is_non_news': 1
-                })
-    
-    # Rimuovi eventuali duplicati (se due eventi cadono nello stesso giorno)
-    unique = {}
-    for ev in events:
-        key = (ev['date'], ev['event'])
-        if key not in unique:
-            unique[key] = ev
-    
-    # Ordina per data
-    sorted_events = sorted(unique.values(), key=lambda x: x['date'])
-    return sorted_events
+if not API_KEY:
+    print("❌ ERRORE: Variabile d'ambiente FMP_API_KEY non trovata.")
+    exit(1)
 
-def save_csv(events, filename='news.csv'):
-    with open(filename, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=['date', 'event', 'importance', 'is_non_news'])
-        writer.writeheader()
-        writer.writerows(events)
-    print(f"✅ Salvati {len(events)} eventi in {filename}")
+def fetch_and_save_news(filename='news.csv', days=30):
+    """Scarica il calendario economico degli USA per i prossimi 'days' giorni."""
+    try:
+        # Costruisce l'URL per l'API del calendario economico di FMP
+        url = f"https://financialmodelingprep.com/api/v3/economic_calendar"
+        params = {
+            'apikey': API_KEY,
+            'from': datetime.now().strftime('%Y-%m-%d'),
+            'to': (datetime.now() + timedelta(days=days)).strftime('%Y-%m-%d')
+        }
+        
+        response = requests.get(url, params=params, timeout=15)
+        response.raise_for_status()
+        data = response.json()
+        
+        if not isinstance(data, list):
+            print(f"❌ Risposta API non valida: {data}")
+            return False
+        
+        events_list = []
+        for event in data:
+            # Verifica che sia per gli Stati Uniti
+            if event.get('country') != 'US':
+                continue
+            
+            event_date_str = event.get('date')
+            if not event_date_str:
+                continue
+            
+            try:
+                event_date = datetime.fromisoformat(event_date_str.replace('Z', '+00:00'))
+            except:
+                continue
+            
+            importance_map = {'High': 'high', 'Medium': 'medium', 'Low': 'low'}
+            importance = importance_map.get(event.get('impact', 'Low'), 'low')
+            title = event.get('event', '')
+            is_non_news = 1 if ('Unemployment' in title or 'Jobless' in title) else 0
+            
+            events_list.append({
+                'date': event_date.strftime('%Y-%m-%d'),
+                'event': title,
+                'importance': importance,
+                'is_non_news': is_non_news
+            })
+        
+        # Salva il file CSV
+        with open(filename, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=['date', 'event', 'importance', 'is_non_news'])
+            writer.writeheader()
+            writer.writerows(events_list)
+        
+        print(f"✅ Salvati {len(events_list)} eventi in {filename}")
+        return True
+        
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Errore di connessione: {e}")
+        return False
+    except Exception as e:
+        print(f"❌ Errore imprevisto: {e}")
+        return False
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Genera file news.csv con le principali news USA.')
-    parser.add_argument('--months', type=int, default=6, help='Numero di mesi da generare (default: 6)')
-    parser.add_argument('--output', type=str, default='news.csv', help='Nome file output (default: news.csv)')
-    args = parser.parse_args()
-    
-    events = generate_events(months=args.months)
-    save_csv(events, args.output)
+    fetch_and_save_news()
