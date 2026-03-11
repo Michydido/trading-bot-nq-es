@@ -5,8 +5,8 @@ on:
     - cron: '5 0 * * *'
   workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # <-- QUI è il posto giusto!
+env:  # <-- La variabile va qui, a livello principale!
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-news:
