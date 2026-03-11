@@ -32,3 +32,5 @@ jobs:
         with:
           commit_message: "Aggiornamento automatico news.csv [skip ci]"
           file_pattern: news.csv
+  env:
+    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
