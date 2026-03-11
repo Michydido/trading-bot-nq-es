@@ -5,11 +5,14 @@ on:
     - cron: '5 0 * * *'
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # <-- QUI è il posto giusto!
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # <-- Questa riga dà i permessi di scrittura
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -32,5 +35,3 @@ jobs:
         with:
           commit_message: "Aggiornamento automatico news.csv [skip ci]"
           file_pattern: news.csv
-  env:
-    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
